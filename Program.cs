@@ -9,6 +9,10 @@ namespace Try
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            for (int i = 0; i < length; i++)
+            {
+
+            }
 
 
         }
